@@ -1,7 +1,7 @@
 .nav a { color: #5a5a5a;
   font-size: 22px;
   font-weight: bold;
-  padding: 14px 13px;
+  padding: 14px;
   text-transform: uppercase;
 }
 
@@ -34,12 +34,18 @@
 
 .sections h3 {
   font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
+  padding: 10px 0px;
 }
 
 .sections a {
   color: #00b0ff;
+}
+
+.sections p {
+    font-size: 15;
+    line-height: 200%;
 }
 
 .welcome {
@@ -49,13 +55,13 @@
 
 .welcome h2 {
     color: #393c3d;
-    font-size: 24px;
-    margin-bottom: 20px;
+    font-size: 30px;
+    margin-bottom: 40px;
     margin-left: 30px;
 }
 
 .welcome p {
     font-size: 15px;
-    margin-bottom: 13px;
+    margin-bottom: 30px;
     margin-left: 30px;
 }
