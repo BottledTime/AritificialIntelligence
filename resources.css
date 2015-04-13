@@ -1,1 +1,57 @@
+.nav a { 
+    color: #5a5a5a;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 36px;
+    text-transform: uppercase;
+}
 
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image:url('http://upload.wikimedia.org/wikipedia/commons/d/d1/Honda_ASIMO_Walking_Stairs.JPG');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    position: relative;
+    top:110px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 40px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.title {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+    border-top: 1px solid #dbdbdb;
+}
+
+.title h2 {
+    color: #393c3d;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+
+.resources {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.resources li {
+    font-family: 'Shift', sans-serif;
+    padding: 10px 100px;
+}
+
+.resources a {
+    color: #00b0ff;
+}
