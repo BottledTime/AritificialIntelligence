@@ -59,6 +59,14 @@
     line-height: 200%;
 }
 
+.message li {
+    font-size: 15px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 200%;
+}
+
 .questions {
     background-color: #f7f7f7;
     border-bottom: 1px solid #dbdbdb;
