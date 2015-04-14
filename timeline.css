@@ -51,5 +51,9 @@
 .timeline {
     background-color: #f7f7f7;
     border-bottom: 1px solid #dbdbdb;
-    padding-bottom: 1000px;
+}
+
+.timeline iframe {
+    padding-bottom = 0px;
+}
 }
